@@ -4,7 +4,7 @@ Welcome to the **ChampionsLeagueApp** repository! This project showcases an Andr
 
 ## Overview
 
-The **ChampionsLeagueApp** provides users with real-time standings for the UEFA Champions League. By tapping on a team's row, users can explore detailed information about each team. The data was fetched from the Football-Data API that is present in the public APIs list given in the assessment.
+The **ChampionsLeagueApp** provides users with real-time standings for the UEFA Champions League. By tapping on a team's row, users can explore detailed information about each team. The data was fetched from the Football-Data API.
 
 ## Features
 
