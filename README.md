@@ -1,6 +1,6 @@
 # ChampionsLeagueApp
 
-Welcome to the **ChampionsLeagueApp** repository! This project showcases an Android mobile application developed by **Eduardo Ribeiro** as part of an assessment for **Gymondo**.
+Welcome to the **ChampionsLeagueApp** repository! This project showcases an Android mobile application developed by **Eduardo Ribeiro**.
 
 ## Overview
 
