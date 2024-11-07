@@ -1,6 +1,10 @@
 # ChampionsLeagueApp
+Weekend project!
 
-Welcome to the **ChampionsLeagueApp** repository! This project showcases an Android mobile application developed by **Eduardo Ribeiro**.
+![table white mode400](https://github.com/user-attachments/assets/00b60c6a-1aea-41e9-b23e-02e6aaefb5d7)
+![teamdetail white mode](https://github.com/user-attachments/assets/4d960253-29a7-47d7-9c2b-d4981146d708)
+
+
 
 ## Overview
 
